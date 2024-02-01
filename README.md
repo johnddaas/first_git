@@ -3,6 +3,7 @@
 
 #Language
 python 3.x
-
+java
 #software
+iftop
 vnstat
